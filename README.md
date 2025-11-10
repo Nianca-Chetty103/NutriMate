@@ -1,4 +1,4 @@
-# NutriMate
+# NutriMate 🥗
 A UX/UI design I created with figma.
 
 # Why I Built this 
