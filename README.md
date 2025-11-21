@@ -8,3 +8,6 @@ A UX/UI design I created with figma.
 
 ## Low-Fidelity prototype 
 <img src="https://github.com/Nianca-Chetty103/NutriMate/blob/main/Low-fidelity%20prototype.png" width="450" height="200">
+
+## High-Fidelity prototype
+
