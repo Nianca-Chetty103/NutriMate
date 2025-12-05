@@ -14,8 +14,10 @@ A UX/UI design I created with figma. Just an app that can help and suggest to us
 - join a community of tips and advice.
 
 ## How does it help the community
-- help people make better chioces when coming to diets and healthier eating.
+- help people make better choices when it comes to dieting and healthier eating.
 - encourages collaboration with sharing of receipes and advice
+- educates them on being concious on healtier alternates
+- shows quick and convienient meals to prep and cook
 
 
 # Previews  
