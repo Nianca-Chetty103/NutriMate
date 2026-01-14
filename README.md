@@ -19,6 +19,8 @@ A UX/UI design I created with figma. Just an app that can help and suggest to us
 - educates them on being concious on healtier alternates
 - shows quick and convienient meals to prep and cook
 
+## Tech Stack 📚
+- figma designing tool
 
 # Previews  
 ## Low-Fidelity prototype 
