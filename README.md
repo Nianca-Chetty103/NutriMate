@@ -21,8 +21,7 @@ A UX/UI design I created with figma. Just an app that can help and suggest to us
 
 ## Tech Stack 📚
 - figma designing tool
-
-# Previews  
+ 
 ## Low-Fidelity prototype 
 <img src="https://github.com/Nianca-Chetty103/NutriMate/blob/main/Low-fidelity%20prototype.png" width="450" height="200">
 
